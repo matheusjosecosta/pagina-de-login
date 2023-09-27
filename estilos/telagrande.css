@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+@media screen  and (min-width: 786px) {
+    body {
+        background-size: cover;
+        
+        
+    }
+
+    div img {
+        background-size: cover;
+        width: 800px;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    p#nome{
+        width: 600px;
+    }
+
+    input#nome {
+        width: 500px;
+    }
+
+    input#senha {
+        width: 500px;
+    }
+
+    p#senha {
+        width: 600px;
+    }
+    input#enviar {
+        width: 600px;
+     }
+
+    input#esqueceu {
+        width: 600px;
+     }
+
+    
+}
