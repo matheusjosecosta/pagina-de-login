@@ -7,11 +7,11 @@
         
     }
 
-    div img {
-        background-size: cover;
-        width: 800px;
-    }
+    div#imagem > img {
+        height: 42vh;
 
+
+    }
     h1 {
         font-size: 3em;
     }
